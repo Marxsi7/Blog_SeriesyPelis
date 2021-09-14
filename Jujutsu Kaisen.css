@@ -1,0 +1,28 @@
+body {
+    background-color: #757575;
+
+}
+
+table{
+    border:dotted firebrick;
+    padding: 1px;
+    margin: auto;
+}
+h1 {
+    color:black;
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+h2 {
+color: yellowgreen;
+text-align: left;
+font-size: 27px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div {
+    position: static;
+    border: 3px;
+
+}
